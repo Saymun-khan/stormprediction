@@ -1,9 +1,9 @@
-import { Button } from '@chakra-ui/react';
+import Home from './components/Home';
 
 function App() {
   return (
     <div className="App">
-    <Button>Hello</Button>
+    <Home />
     </div>
   );
 }
