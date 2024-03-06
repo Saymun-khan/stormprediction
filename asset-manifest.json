@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/stormprediction/static/js/main.aa85dfe3.js",
+    "static/media/bg.jpg": "/stormprediction/static/media/bg.b68b08227f77df545ad8.jpg",
+    "static/media/humidityOne.png": "/stormprediction/static/media/humidityOne.42d6a8974a2812e081e3.png",
+    "static/media/airOne.png": "/stormprediction/static/media/airOne.c429224f476533d1b756.png",
+    "static/media/visibilityOne.png": "/stormprediction/static/media/visibilityOne.a8936181a86349478786.png",
+    "static/media/windOne.png": "/stormprediction/static/media/windOne.907948236d19ab331ec0.png",
+    "static/media/logothree.png": "/stormprediction/static/media/logothree.ca6c47539d15475b636f.png",
+    "index.html": "/stormprediction/index.html",
+    "main.aa85dfe3.js.map": "/stormprediction/static/js/main.aa85dfe3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.aa85dfe3.js"
+  ]
+}
