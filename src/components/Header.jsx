@@ -23,7 +23,7 @@ const Header = () => {
             <Box>
                 <Image src={LogoOne} boxSize="100px" />
             </Box>
-            <Text color="white" m='auto' textAlign='center' fontFamily='sans-serif' fontSize='x-large' fontWeight='medium'>Weather Detecting App</Text>
+            <Text color="white" m='auto' textAlign='center' fontFamily='sans-serif' fontSize='x-large' fontWeight='medium'>Weather Detecting Apps</Text>
             <Box>
                 <Image src={LogoTwo} boxSize="100px" />
             </Box>
